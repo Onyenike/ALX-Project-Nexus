@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+html,body,#__next { height: 100%; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background: #F8FAFC; color: #111827; }
+a { color: inherit; }
